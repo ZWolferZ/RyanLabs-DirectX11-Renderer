@@ -1,0 +1,175 @@
+{
+  "version": "1.0",
+  "SceneCameraVariables": {
+    "DebugCamera": {
+      "Position": {
+        "x": 0,
+        "y": 1,
+        "z": -14
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 90,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraOne": {
+      "Position": {
+        "x": 0,
+        "y": 1,
+        "z": -14
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraTwo": {
+      "Position": {
+        "x": 10190,
+        "y": 10307,
+        "z": 9822
+      },
+      "Rotation": {
+        "x": 0.48,
+        "y": -0.6,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraThree": {
+      "Position": {
+        "x": 145,
+        "y": 75,
+        "z": 335
+      },
+      "Rotation": {
+        "x": 0.26,
+        "y": 3.4,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraFour": {
+      "Position": {
+        "x": 370,
+        "y": 424,
+        "z": 398
+      },
+      "Rotation": {
+        "x": 0.3,
+        "y": -3.6,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraFive": {
+      "Position": {
+        "x": 587,
+        "y": 405,
+        "z": 15
+      },
+      "Rotation": {
+        "x": 0.25,
+        "y": 2.3,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraSix": {
+      "Position": {
+        "x": 11,
+        "y": 11,
+        "z": 9983
+      },
+      "Rotation": {
+        "x": 0.17,
+        "y": -0.6,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraSeven": {
+      "Position": {
+        "x": -5,
+        "y": -15,
+        "z": -98
+      },
+      "Rotation": {
+        "x": 0.45,
+        "y": -3.4,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraEight": {
+      "Position": {
+        "x": -983,
+        "y": 18,
+        "z": -29
+      },
+      "Rotation": {
+        "x": 6.7,
+        "y": 5.4,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    },
+    "CameraNine": {
+      "Position": {
+        "x": 407,
+        "y": 675,
+        "z": 407
+      },
+      "Rotation": {
+        "x": 0.4,
+        "y": -5.4,
+        "z": 0
+      },
+      "ProjectionValues": {
+        "fov": 100,
+        "near": 0.01,
+        "far": 10000
+      }
+    }
+  }
+}

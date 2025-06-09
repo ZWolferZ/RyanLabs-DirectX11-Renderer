@@ -1,0 +1,46 @@
+Artefact for GDEV50038 - Ryan Moakes - m015485n - 23015485 
+PROJECT FOR EDUCATIONAL PURPOSES ONLY, NOT FOR COMMERICAL USE:
+
+OBJ References:
+
+All Models used in "Test models" Directory provided by University of Staffordshire.
+
+Fish Tank Scene Used in "OBJ's" Directory created by Ryan Moakes.
+
+RyanLabs LOGO Used in "OBJ's" Directory created by Ryan Moakes.
+
+Glassware Used in "OBJ's" Directory created by Ryan Moakes.
+
+Inverted Cube Used in "OBJ's" Directory created by Ryan Moakes.
+
+Milk Used in "OBJ's" Directory created by Ryan Moakes.
+
+Room Used in "OBJ's" Directory created by Ryan Moakes.
+
+Well Used in "OBJ's" Directory created by Ryan Moakes.
+
+
+Texture References:
+
+All Textures used in "Test models" Directory provided by University of Staffordshire.
+
+Asphalt Textures in "Textures" Directory provided by University of Staffordshire.
+
+Crate Textures in "Textures" Directory provided by University of Staffordshire.
+
+RyanLabs Texture in "Textures" Directory created by Ryan Moakes.
+
+Skybox Textures in "Textures" Directory provided by University of Staffordshire.
+
+All Keyboard Icons in "Textures" Directory created by Ryan Moakes.
+
+Fish Scene Texture in "Textures" Directory created by Ryan Moakes.
+
+Glass Texture in "Textures" Directory created by Ryan Moakes.
+
+Heightmap raw in "Textures" Directory provided by University of Staffordshire.
+
+Milk Texture in "Textures" Directory created by Ryan Moakes.
+
+Well Texture in "Textures" Directory created by Ryan Moakes.
+

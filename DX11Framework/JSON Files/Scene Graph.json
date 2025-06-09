@@ -1,0 +1,173 @@
+{
+  "version": "1.0",
+  "GameObjects": [
+    {
+      "Name": "Airplane",
+      "id": 1,
+      "OBJfilepath": "Test models\\Airplane\\Hercules.obj",
+      "TEXfilepath": "Test models\\Airplane\\Hercules_COLOR.dds",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 20,
+        "y": 20,
+        "z": 20
+      }
+    },
+    {
+      "Name": "Car",
+      "id": 2,
+      "OBJfilepath": "Test models\\Car\\Car.obj",
+      "TEXfilepath": "Test models\\Car\\Car_COLOR.dds",
+      "position": {
+        "x": -1020,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 10,
+        "y": 10,
+        "z": 10
+      }
+    },
+    {
+      "Name": "Fish Tank",
+      "id": 3,
+      "OBJfilepath": "OBJ's\\Fish Tank.obj",
+      "TEXfilepath": "Textures\\FishTankAtlas.dds",
+      "position": {
+        "x": 10000,
+        "y": 10000,
+        "z": 10000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 100,
+        "y": 100,
+        "z": 100
+      }
+    },
+    {
+      "Name": "RyanLabs Logo",
+      "id": 4,
+      "OBJfilepath": "OBJ's\\RyanLabs Logo.obj",
+      "TEXfilepath": "Textures\\RyanLabsTextures.dds",
+      "position": {
+        "x": 27.3,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 0.25,
+        "y": 0.25,
+        "z": 0.25
+      }
+    },
+    {
+      "Name": "Room",
+      "id": 5,
+      "OBJfilepath": "OBJ's\\Room.obj",
+      "TEXfilepath": "NULL",
+      "position": {
+        "x": 400,
+        "y": 400,
+        "z": 400
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 10,
+        "y": 10,
+        "z": 10
+      }
+    },
+    {
+      "Name": "Milk",
+      "id": 6,
+      "OBJfilepath": "OBJ's\\Milk.obj",
+      "TEXfilepath": "Textures\\MilkTexture.dds",
+      "position": {
+        "x": 600,
+        "y": 400,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "Name": "Well",
+      "id": 7,
+      "OBJfilepath": "OBJ's\\Well.obj",
+      "TEXfilepath": "Textures\\Well Texture.dds",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 10000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "Name": "Glass",
+      "id": 8,
+      "OBJfilepath": "OBJ's\\Glass.obj",
+      "TEXfilepath": "Textures\\GlassTextures.dds",
+      "position": {
+        "x": -3,
+        "y": -19.2,
+        "z": -105
+      },
+      "rotation": {
+        "x": 0,
+        "y": 80,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Artefact for GDEV50038 - Ryan Moakes - m015485n - 23015485 
+PROJECT FOR EDUCATIONAL PURPOSES ONLY, NOT FOR COMMERICAL USE:
+
+
+Package References:
+
+DirectX11 Toolkit - Microsoft.
+
+nlohmann.json - Niels Lohmann.
+
+OBJ LOADER - University of Staffordshire.
+
+Texture Loader - University of Staffordshire.
+

@@ -1,0 +1,60 @@
+Artefact for GDEV50038 - Ryan Moakes - m015485n - 23015485 
+PROJECT FOR EDUCATIONAL PURPOSES ONLY, NOT FOR COMMERICAL USE:
+
+Controls: 
+
+
+IN MAIN MENU:
+
+Left Arrow - Select Start
+
+Right Arrow - Select Exit
+
+Enter/Return - Confirm Selection
+
+
+IN SIMULATION:
+
+Numpad 0 - Activate Debug Camera
+
+Numpad 1-9 - Activate other scene cameras
+
+Escape - Closes the Program
+
+F1 - Enables Textures
+
+F2 - Enables Lighting
+
+F3 - Enables Fill/Wireframe Mode (Needs Back Face Culling Mode OFF)
+
+F4 - Stop Cube Rotation
+
+F5 - Enables Text Rendering
+
+F6 - Back Face Culling Mode (Needs Fill Mode OFF)
+
+F7 - Wave Filter Y Mode
+
+F8 - Wave Filter X Mode
+
+F9 - Activate Mouse Features (Scroll, Move)
+
+TAB - Pixelation Shader 
+
+F11 - Gooch Shader
+
+W - Move Camera Forward
+
+A - Move Camera Left
+
+S - Move Camera Back
+
+D - Move Camera Right
+
+Left Arrow - Rotate Camera Left
+
+Right Arrow - Rotate Camera Right
+
+Up Arrow - Rotate Camera Up
+
+Down Arrow - Rotate Camera Down

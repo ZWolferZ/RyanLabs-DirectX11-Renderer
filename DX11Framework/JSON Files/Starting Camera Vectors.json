@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "StartingCameraVectors": {
+    "ForwardVector": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.0,
+      "w": 0.0
+    },
+    "UpVector": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "RightVector": {
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "LeftVector": {
+      "x": -1.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "BackVector": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1.0,
+      "w": 0.0
+    }
+  }
+}
