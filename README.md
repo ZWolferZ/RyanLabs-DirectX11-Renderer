@@ -1,2 +1,2 @@
-# RyanLabs-DirectX11-Renderer
-My DirectX11 Renderer, showcasing a few different graphical techniques!
+# RyanLabs-Proprietary-Real-Time-Rendering-Framework
+My DirectX 11 renderer, showcasing various graphical techniques!
